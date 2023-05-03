@@ -7,7 +7,7 @@
  // Замените 'YOUR_CHAT_ID' на ваш chat_id, полученный от бота
 //  const chatId = 'YOUR_CHAT_ID';
 
- const chatId = '6138840787';
+ const chatId = '422713968';
 
  // Получаем форму обратной связи
  const feedbackForm = document.getElementById('feedbackForm');
